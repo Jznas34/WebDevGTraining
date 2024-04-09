@@ -21,6 +21,10 @@ main {
     height: 100px;
 }
 
+.test {
+    color: white;
+}
+
 footer {
     background-color: black;
     width: 100%;
